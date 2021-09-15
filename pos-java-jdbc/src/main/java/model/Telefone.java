@@ -7,7 +7,6 @@ public class Telefone {
 	private String tipo;
 	private long usuario;
 	
-	
 	public Long getId() {
 		return id;
 	}
